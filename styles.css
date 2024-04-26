@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #search-container {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  #search-results {
+    margin-top: 10px;
+    
+  }
+  #search-results-container h2{
+    text-align: center;
+  }
+  #favorites-container {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  #favorites-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .favorite-item {
+    margin-bottom: 10px;
+  }
+  
+  .favorite-item button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  .movie-details-container {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.movie-poster {
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+.movie-details {
+    padding-left: 20px; 
+}
+
+.movie-info p {
+    margin-bottom: 5px;
+}
+.movie-details-container {
+  max-width: 800px;
+  margin: 50px auto;
+}
+.movie-poster {
+  max-width: 300px;
+  margin-bottom: 20px;
+}
+.movie-info {
+  margin-bottom: 20px;
+}
+.movie-info h2 {
+  margin-bottom: 10px;
+}
+.movie-info p {
+  margin-bottom: 5px;
+}
